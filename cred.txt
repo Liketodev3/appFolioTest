@@ -1,0 +1,13 @@
+git login
+
+liketodev3@gmail.com
+Hndik111!!
+============================
+ssh
+
+ssh_host: 65.109.11.93
+ssh_user: root
+ssh_pass: y54!h5oEBsDf
+
+/var/www
+=====================
