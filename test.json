@@ -1,0 +1,560 @@
+{
+  "autofill": {
+    "states_data_dir": "C:\\Users\\WPPC-0084\\AppData\\Local\\Chromium\\User Data\\AutofillStates\\2020.11.2.164946"
+  },
+  "browser": {
+    "last_whats_new_version": 107,
+    "shortcut_migration_version": "107.0.5296.0"
+  },
+  "chrome_labs_new_badge_dict": {
+    "webui-tab-strip": -1
+  },
+  "hardware_acceleration_mode_previous": true,
+  "invalidation": {
+    "per_sender_topics_to_handler": {}
+  },
+  "legacy": {
+    "profile": {
+      "name": {
+        "migrated": true
+      }
+    }
+  },
+  "management": {
+    "platform": {
+      "azure_active_directory": 0,
+      "enterprise_mdm_win": 0
+    }
+  },
+  "network_time": {
+    "network_time_mapping": {
+      "local": 1.677485968383738e+12,
+      "network": 1.677485968261e+12,
+      "ticks": 1.010016233724e+12,
+      "uncertainty": 10184868.0
+    }
+  },
+  "optimization_guide": {
+    "model_store_metadata": {}
+  },
+  "os_crypt": {
+    "app_bound_fixed_data": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8l8hzK2rt0yzrRCVixFlTgAAAAACAAAAAAAQZgAAAAEAACAAAADT1dxAMErIWGGytc+UpJyeW3KmSHwDkLiO1m3GdYYDLwAAAAAOgAAAAAIAACAAAABR2eLixyaQDpSyUdhNHO/ssE5Ed62koN80zbuaSbermWABAACV042m4VXhtBELMh0AOxWB+OMD0sa8wTAe0RjBaiCKkxVlhRjEla+AKmTc8qMPEEYeYcibcIaam5ZPCVewm/QMKHTuX6+lG2YKcY9BYQ02Kg/JyNwvns7FNSaxMwIS0nGvRFa/ekmJ5ENuPRKIuUA3CPjLUbj93wvVXGdc9Zx79H1IYHuNEmCtOBko9SUQWO4+a/RrTN6YVuf54THuXOR9CQuyuP8lhCm3Lyd6j50mAFdAr8KCl4ukW33gq6B1Wc5bcEzHKknilMlxmt3h7ZI1pqGloZjqB3yibnBrrlo4nrDs93/slQDgYW5uY237suHBty57y9Ry0WpmSoefiI6GXBfiwQhoCHPGOim8B4ks6TE0SLuRxPKuKRiv0zk8FDaA7q1TA1Twm3vY62hafRqocSYjnC3aoxCw36rv3vwSy4jGHHFBPsx+1UJSwXzGKhlzk9HyFdroUclSslU7S/+iQAAAAKUXaRabv85ja21nYzfJ/OkZbfIFuPxA/4Za4sDgkUPHSH8qV4m3gfC6Ux4wb/Rbt5ouSpRwcHKXjxrIJQayBes=",
+    "encrypted_key": "RFBBUEkBAAAA0Iyd3wEV0RGMegDAT8KX6wEAAADar16tm2s4RqFjtHQ9qhtNAAAAAAIAAAAAABBmAAAAAQAAIAAAADf44o02e+IzRZ/ajZ3sZWeHeGb03StUV1yAkR+W072oAAAAAA6AAAAAAgAAIAAAAEcsqeEdRQKoY+Zfz0PM692zU7V0d7jPvER+WhCRM2GfMAAAACjemXohbRCMYIz4rC2UndU9yYch4TOPa8lH+JSFSTx+3g3+rao680ubTIM/AEc4xEAAAACx+5A/h4fzVcDT6q5c4XA2cH+3OvREXGQqxc5G5V+pXDCTupIHZO15cvG7LhOETsWi3VKcT2xiLVWYzknhX1tm"
+  },
+  "policy": {
+    "last_statistics_update": "13321954762155383"
+  },
+  "privacy_budget": {
+    "block_offset": 2,
+    "generation": 8
+  },
+  "profile": {
+    "info_cache": {
+      "Profile 1": {
+        "active_time": 1677485745.880212,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -8611,
+        "default_avatar_stroke_color": -10663424,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 12,
+        "name": "Profile 1",
+        "profile_highlight_color": -8611,
+        "shortcut_name": "Profile 1",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 11": {
+        "active_time": 1677485935.492003,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -600603,
+        "default_avatar_stroke_color": -5757852,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 17,
+        "name": "test profile name",
+        "profile_highlight_color": -600603,
+        "shortcut_name": "test profile name",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 2": {
+        "active_time": 1677485923.299514,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -205879,
+        "default_avatar_stroke_color": -4437750,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 13,
+        "name": "Profile 2",
+        "profile_highlight_color": -205879,
+        "shortcut_name": "Profile 2",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 3": {
+        "active_time": 1677485942.137782,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -3413569,
+        "default_avatar_stroke_color": -12354005,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 14,
+        "name": "Profile 3",
+        "profile_highlight_color": -3413569,
+        "shortcut_name": "Profile 3",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 5": {
+        "active_time": 1675245467.669323,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": true,
+        "managed_user_id": "",
+        "metrics_bucket_index": 8,
+        "name": "Person 1",
+        "shortcut_name": "Person 1",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 6": {
+        "active_time": 1677485958.801783,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 9,
+        "name": "Profile 1",
+        "shortcut_name": "Profile 1",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 7": {
+        "active_time": 1675245516.512339,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -205879,
+        "default_avatar_stroke_color": -4437750,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 10,
+        "name": "Profile 2",
+        "profile_highlight_color": -205879,
+        "shortcut_name": "Profile 2",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 8": {
+        "active_time": 1677485962.393578,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 11,
+        "name": "Profile 3",
+        "shortcut_name": "Profile 3",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      },
+      "Profile 9": {
+        "active_time": 1677485965.94556,
+        "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+        "background_apps": false,
+        "default_avatar_fill_color": -8864901,
+        "default_avatar_stroke_color": -15654126,
+        "force_signin_profile_locked": false,
+        "gaia_given_name": "",
+        "gaia_id": "",
+        "gaia_name": "",
+        "hosted_domain": "",
+        "is_consented_primary_account": false,
+        "is_ephemeral": false,
+        "is_using_default_avatar": true,
+        "is_using_default_name": false,
+        "managed_user_id": "",
+        "metrics_bucket_index": 15,
+        "name": "testmytest",
+        "profile_highlight_color": -8864901,
+        "shortcut_name": "testmytest",
+        "signin.with_credential_provider": false,
+        "user_name": ""
+      }
+    },
+    "last_active_profiles": [
+      "Profile 6",
+      "Profile 11"
+    ],
+    "last_used": "Profile 11",
+    "metrics": {
+      "next_bucket_index": 18
+    },
+    "picker_shown": true,
+    "profile_counts_reported": "13321954762135193",
+    "profiles_created": 12
+  },
+  "profile_network_context_service": {
+    "http_cache_finch_experiment_groups": "Experiment_Triple_Key_20201001 None None None"
+  },
+  "profiles": {
+    "profiles_deleted": []
+  },
+  "session_id_generator_last_value": "170848311",
+  "shutdown": {
+    "num_processes": 0,
+    "num_processes_slow": 0,
+    "type": 0
+  },
+  "software_reporter": {
+    "cohort": "stable",
+    "cohort_selection_time": "13319633032996863",
+    "last_time_triggered": "13319633170114614"
+  },
+  "subresource_filter": {
+    "ruleset_version": {
+      "checksum": 1656147204,
+      "content": "9.43.0",
+      "format": 35
+    }
+  },
+  "tab_stats": {
+    "discards_external": 0,
+    "discards_urgent": 0,
+    "last_daily_sample": "13321954762438377",
+    "max_tabs_per_window": 14,
+    "reloads_external": 0,
+    "reloads_urgent": 0,
+    "total_tab_count_max": 15,
+    "window_count_max": 2
+  },
+  "ukm": {
+    "persisted_logs": []
+  },
+  "uninstall_metrics": {
+    "installation_date2": "1675073602"
+  },
+  "updateclientdata": {
+    "apps": {
+      "dhlpobdgcjafebgbbhjdnapejmpkgiie": {
+        "cohort": "1:z9x:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.0c24e9bd976adffa987e08fc54dc0950c84cf18f9cdb4c5caabc6acf24887c4f",
+        "installdate": 5873,
+        "pf": "8da66641-2754-433b-a535-4f1cc3be5e88",
+        "pv": "20220505"
+      },
+      "dnhnnofocefcglhjeigmkhcgfoaipbaa": {
+        "cohort": "1:16j3:",
+        "cohorthint": "Stable",
+        "cohortname": "Stable",
+        "dlrc": 5901,
+        "fp": "1.831f042cb02b1fc2f9fed3106f544be8b336828681a1613ced571c09ebca4cf2",
+        "installdate": 5873,
+        "pf": "91e378c5-eef2-45f9-9931-2f6647ac39d4",
+        "pv": "2022.11.1.1"
+      },
+      "eeigpngbgcognadeebkilcpcaedhellh": {
+        "cohort": "1:w59:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.c64c9c1008f3ba5f6e18b3ca524bc98dcd8acfae0a2720a8f1f3ef0f8d643d05",
+        "installdate": 5873,
+        "pf": "9af2535b-2d8e-4fa0-aabc-d784a10cd404",
+        "pv": "2020.11.2.164946"
+      },
+      "efniojlnjndmcbiieegkicadnoecjjef": {
+        "cohort": "1:18ql:",
+        "cohorthint": "Auto Stage3",
+        "cohortname": "Auto Stage3",
+        "dlrc": 5901,
+        "fp": "1.fe129492bb78119169580e6878c436e9a54ac5faeb9ddba782c5cee95a6eef04",
+        "installdate": 5873,
+        "pf": "35b03378-dd61-4e4a-8fd3-c6bc29f7600e",
+        "pv": "510"
+      },
+      "ehgidpndbllacpjalkiimkbadgjfnnmc": {
+        "cohort": "1:ofl:",
+        "cohortname": "stable64",
+        "dlrc": 5874,
+        "fp": "1.a8a79d350c2a5e3bc36226633a8e0bed0dfab184e77f38fc8f0820ebacf8eafc",
+        "installdate": 5874,
+        "pf": "c25f88c9-2cb9-4843-b275-3c1883311e15",
+        "pv": "2018.8.8.0"
+      },
+      "gcmjkmgdlgnkkcocmoeiminaijmmjnii": {
+        "cohort": "1:bm1:",
+        "cohorthint": "M54AndUp",
+        "cohortname": "M54AndUp",
+        "dlrc": 5901,
+        "fp": "1.2f05b93b17882f6d46c35c7f6f7f9f90d7a34f888f796446d9b587e09c1987e8",
+        "installdate": 5873,
+        "pf": "9204abe9-49c6-47c3-ba8c-18ff2494f2c6",
+        "pv": "9.43.0"
+      },
+      "ggkkehgbnfjpeggfpleeakpidbkibbmn": {
+        "cohort": "1:ut9:",
+        "cohorthint": "M80AndAbove",
+        "cohortname": "M80AndAbove",
+        "dlrc": 5901,
+        "fp": "1.ed2f4d0fa9d2f99837719f80e3990498314290c6a294a72296ddcada784dd278",
+        "installdate": 5873,
+        "pf": "d690c795-66e3-478e-a138-17a6d2014c1e",
+        "pv": "2022.12.16.779"
+      },
+      "giekcmmlnklenlaomppkphknjmnnpneh": {
+        "cohort": "1:j5l:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.fd515ec0dc30d25a09641b8b83729234bc50f4511e35ce17d24fd996252eaace",
+        "installdate": 5873,
+        "pf": "cb512071-51f8-485b-b29c-28880960437e",
+        "pv": "7"
+      },
+      "gkmgaooipdjhmangpemjhigmamcehddo": {
+        "cohort": "1:pw3:",
+        "cohortname": "Stable",
+        "dlrc": 5874,
+        "fp": "1.f01de52469688ae15bd4cc6e43e5fd0ae8a80d4bd6954967fd4f499c7507aa2e",
+        "installdate": 5874,
+        "pf": "89e69d51-e394-4db1-9eca-304a2ba554e2",
+        "pv": "107.294.200"
+      },
+      "gonpemdgkjcecdgbnaabipppbmgfggbe": {
+        "cohort": "1:z1x:",
+        "cohorthint": "General release",
+        "cohortname": "General release",
+        "dlrc": 5901,
+        "fp": "1.c51d23bc0653142853b0d9dc8ba00f504aaae8a2a5b290e539b8790d88c0dcbe",
+        "installdate": 5873,
+        "pf": "aab04c5a-d2b6-4bc1-ab8d-5cce1f7f0bd7",
+        "pv": "2022.2.15.1"
+      },
+      "hfnkpimlhhgieaddgfemjhofmfblmnib": {
+        "cohort": "1:jcl:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.ad70f2bed1dd4cce59b845c617a5f19cd949520b71dd09680097ac50764d9cd7",
+        "installdate": 5873,
+        "pf": "9cd07b6e-865c-4b42-8bc3-6c3b3f62a85d",
+        "pv": "7882"
+      },
+      "hnimpnehoodheedghdeeijklkeaacbdc": {
+        "cohort": "1::",
+        "cohortname": "",
+        "dlrc": 5901,
+        "fp": "1.6f6bc93dcd62dc251850d2ff458fda96083ceb7fbe8eeb11248b8485ef2aea23",
+        "installdate": 5873,
+        "pf": "be013118-2426-4e7a-b641-0f1624c1c3c3",
+        "pv": "0.57.44.2492"
+      },
+      "ihnlcenocehgdaegdmhbidjhnhdchfmm": {
+        "cohort": "1:15j3:",
+        "cohortname": "Win (Including up-to-date)",
+        "dlrc": 5874,
+        "fp": "1.aeedb246d19256a956fedaa89fb62423ae5bd8855a2a1f3189161cf045645a19",
+        "installdate": 5874,
+        "pf": "9c83a115-4f12-472c-a1b6-fbc930838865",
+        "pv": "1.3.36.141"
+      },
+      "imefjhfbkmcmebodilednhmaccmincoa": {
+        "cohort": "1:zor:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.42229e9c82a535c988540e9e2d6100bfc3f02c4b3ed8b76dc6db1a161252fbd6",
+        "installdate": 5873,
+        "pf": "0244fe40-f831-455e-92b5-d9b67170cd5d",
+        "pv": "29.6"
+      },
+      "jamhcnnkihinmdlkakkaopbjbbcngflc": {
+        "cohort": "1:wvr:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.e27eb37dab609f2b1b0302ca9f30cfd41ce239fe622184bf4ef89ac7a69f6b34",
+        "installdate": 5873,
+        "pf": "cc4f5632-d277-427b-aa52-250acf0c86e5",
+        "pv": "113.0.5620.0"
+      },
+      "jflookgnkcckhobaglndicnbbgbonegd": {
+        "cohort": "1:s7x:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.938942640594fc606d1393c429930a29876f01c30ac2b21b7aa723292566b2f0",
+        "installdate": 5873,
+        "pf": "e9bd1159-9393-467d-a1af-8482fcdaab4a",
+        "pv": "2926"
+      },
+      "khaoiebndkojlmppeemjhbpbandiljpe": {
+        "cohort": "1:cux:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.4d4a9ece68f12d31fb4ebe458e7cbbce6bd27a5d363bce3344b1f4b5c6b024b4",
+        "installdate": 5873,
+        "pf": "f9c2d47f-d2b5-423f-acb8-bc63c8598a44",
+        "pv": "58"
+      },
+      "kiabhabjdbkjdpjbpigfodbdjmbglcoo": {
+        "cohort": "1:v3l:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.c52b5158b779a1bc884a110f81ddb94cf692761b160737b05cf05878ea32648a",
+        "installdate": 5873,
+        "pf": "3bbd4436-3a88-4d25-97f4-a14b7770ef05",
+        "pv": "2022.10.17.18"
+      },
+      "laoigpblnllgcgjnjnllmfolckpjlhki": {
+        "cohort": "1:10zr:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "installdate": 5873,
+        "pf": "585dcfee-9d60-403b-8103-041ba8d87ead"
+      },
+      "llkgjffcdpffmhiakmfcdcblohccpfmo": {
+        "cohort": "1::",
+        "cohortname": "",
+        "dlrc": 5901,
+        "fp": "1.ab8d70a60ce0fba1355fad4edab88fd4d1bccc566b230998180183d1d776992b",
+        "installdate": 5873,
+        "pf": "c3eff8f4-004d-4ba3-8d3b-a497b8b2b634",
+        "pv": "1.0.0.13"
+      },
+      "lmelglejhemejginpboagddgdfbepgmp": {
+        "cohort": "1:lwl:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.51fdc8ed675d4e178328663acfdb041f18d3e0a2a05f6cb7c6fc9f602f15efcc",
+        "installdate": 5873,
+        "pf": "6dc41720-a986-4200-98db-6889c38dec81",
+        "pv": "380"
+      },
+      "obedbbhbpmojnkanicioggnmelmoomoc": {
+        "cohort": "1:s6f:",
+        "cohorthint": "Auto",
+        "cohortname": "Auto",
+        "dlrc": 5901,
+        "fp": "1.eb7036015c62881424e9f605b821ac70bf659c0ca8db76d31586741c7ba4c66a",
+        "installdate": 5873,
+        "pf": "8e82fdd4-755c-410d-bc38-59820dc26d50",
+        "pv": "20230122.504976301"
+      },
+      "oimompecagnajdejgnnjijobebaeigek": {
+        "cohort": "1:1bk9:",
+        "cohortname": "4.10.2557.0 for Chrome 95+",
+        "dlrc": 5874,
+        "installdate": 5874,
+        "pf": "e3b6a6aa-3c7b-40ec-989c-6d7b6be514f4"
+      },
+      "ojhpjlocmbogdgmfpkhlaaeamibhnphh": {
+        "cohort": "1:w0x:",
+        "cohorthint": "Auto",
+        "cohortname": "All users",
+        "dlrc": 5901,
+        "fp": "1.545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff",
+        "installdate": 5873,
+        "pf": "12e8392a-0a96-4be8-9709-6ce61737b69d",
+        "pv": "3"
+      }
+    }
+  },
+  "user_experience_metrics": {
+    "client_id2": "264e72ac-00fc-4ad4-82e6-8ab3f1a8b8ca",
+    "client_id_timestamp": "1675073610",
+    "last_seen": {
+      "SetupMetrics": "13319244559640646"
+    },
+    "low_entropy_source3": 7000,
+    "machine_id": 12543931,
+    "pseudo_low_entropy_source": 3349,
+    "session_id": 280,
+    "stability": {
+      "browser_last_live_timestamp": "13321959737754395",
+      "exited_cleanly": true,
+      "stats_buildtime": "1662267600",
+      "stats_version": "107.0.5296.0-64-devel",
+      "system_crash_count": 0
+    }
+  },
+  "variations_crash_streak": 72,
+  "was": {
+    "restarted": false
+  }
+}
