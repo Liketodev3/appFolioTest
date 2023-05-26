@@ -212,13 +212,13 @@ class appFolioController{
 
         // await page.screenshot({ path: `./scrapingbee_homepage2.jpg` });
 
-        i = 0;
+        let ij = 0;
 
-        while(i < 10){
+        while(ij < 10){
             await sleep(2000);
 
-            await page.screenshot({ path: `./scrapingbee_homepage${i}.jpg` });
-            i++;
+            await page.screenshot({ path: `./scrapingbee_homepage${ij}.jpg` });
+            ij++;
         }
 
         const evaluateScrapData = await page.evaluate(getData);
