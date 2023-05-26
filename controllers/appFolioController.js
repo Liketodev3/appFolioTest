@@ -9,8 +9,12 @@ const profileOrigin = "https://www.linkedin.com/in/";
 const profileMessagesOrigin = "https://www.linkedin.com/messaging/thread/2-NTE5ZjEwNjgtg2VjYS00jkzE5LThipzktZDA4MGI5OWM1MmQwXzAxMg==/";
 // const userDataDir = `C:\\Users\\${username}\\AppData\\Local\\Chromium\\User Data`;
 
+const readline = require('readline-sync');
+
 const login = require('../evaluate/login.js');
+const getCode = require('../evaluate/getCode.js');
 const getData = require('../evaluate/getData.js');
+const writeCode = require('../evaluate/writeCode.js');
 const findUnreadMessageAndOpen = require('../evaluate/findUnreadMessageAndOpen.js');
 const findLastMessage = require('../evaluate/findLastMessage.js');
 
@@ -204,9 +208,31 @@ class appFolioController{
 
         const evaluateLoginData = await page.evaluate(login);
 
+        const evaluateCodeData = await page.evaluate(getCode);
+
+        let code = '';
+
+        if(evaluateCodeData === 'find'){
+            code = readline.question("what code");
+        }
+
+
+        const evaluateWriteCode = await page.evaluate(writeCode, code);
+
+
+        console.log(evaluateWriteCode);
+
+        await sleep(5000);
+
+
+
         //await page.screenshot({ path: `./scrapingbee_homepage1.jpg` });
 
-        await page.waitForNavigation({'waitUntil': 'domcontentloaded'});
+
+        // document.querySelector('#send_verification_code').click();
+
+
+        // await page.waitForNavigation({'waitUntil': 'domcontentloaded'});
 
         // await page.goto('https://livlavender.appfolio.com/buffered_reports/guest_card_inquiries?customize=true', {waitUntil: 'domcontentloaded'});
 
