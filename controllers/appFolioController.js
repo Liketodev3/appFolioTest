@@ -7,7 +7,7 @@ const MEMBERS_COUNT = 2;
 const NEXT_PROFILE_INTERVAL = 10;
 const profileOrigin = "https://www.linkedin.com/in/";
 const profileMessagesOrigin = "https://www.linkedin.com/messaging/thread/2-NTE5ZjEwNjgtg2VjYS00jkzE5LThipzktZDA4MGI5OWM1MmQwXzAxMg==/";
-const userDataDir = `C:\\Users\\${username}\\AppData\\Local\\Chromium\\User Data`;
+// const userDataDir = `C:\\Users\\${username}\\AppData\\Local\\Chromium\\User Data`;
 
 const login = require('../evaluate/login.js');
 const getData = require('../evaluate/getData.js');
@@ -192,8 +192,8 @@ function test1(pages){
 class appFolioController{
     async start(req, res) {
 
-        const profiles = await getLauncherProfiles();
-        if (!profiles) return res.status(400).json({error: "create Chromium profiles"});
+        // const profiles = await getLauncherProfiles();
+        // if (!profiles) return res.status(400).json({error: "create Chromium profiles"});
 
         const browser = await createBrowser('Profile 1');
         const page = await createNewPage(browser);
