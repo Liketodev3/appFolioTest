@@ -22,7 +22,7 @@ function sleep(delay){
 
 function createBrowser(profileName) {
     return puppeteer.launch({
-        headless: false, // The browser is visible
+        headless: true, // The browser is visible
         ignoreHTTPSErrors: true,
         // executablePath: "C:/chrome-win/chrome.exe",
         // userDataDir: 'C:/Users/WPPC-0084/AppData/Local/Chromium/User Data',
