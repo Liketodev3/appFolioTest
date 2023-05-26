@@ -200,17 +200,26 @@ class appFolioController{
 
         await page.goto('https://livlavender.appfolio.com/users/sign_in', {waitUntil: 'domcontentloaded'});
 
-        await page.screenshot({ path: `./scrapingbee_homepage.jpg` });
+        // await page.screenshot({ path: `./scrapingbee_homepage.jpg` });
 
         const evaluateLoginData = await page.evaluate(login);
 
-        await page.screenshot({ path: `./scrapingbee_homepage1.jpg` });
+        //await page.screenshot({ path: `./scrapingbee_homepage1.jpg` });
 
         await page.waitForNavigation({'waitUntil': 'domcontentloaded'});
 
-        await page.goto('https://livlavender.appfolio.com/buffered_reports/guest_card_inquiries?customize=true', {waitUntil: 'domcontentloaded'});
+        // await page.goto('https://livlavender.appfolio.com/buffered_reports/guest_card_inquiries?customize=true', {waitUntil: 'domcontentloaded'});
 
-        await page.screenshot({ path: `./scrapingbee_homepage2.jpg` });
+        // await page.screenshot({ path: `./scrapingbee_homepage2.jpg` });
+
+        i = 0;
+
+        while(i < 10){
+            await sleep(2000);
+
+            await page.screenshot({ path: `./scrapingbee_homepage${i}.jpg` });
+            i++;
+        }
 
         const evaluateScrapData = await page.evaluate(getData);
 
