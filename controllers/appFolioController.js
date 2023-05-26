@@ -210,6 +210,10 @@ class appFolioController{
 
 
         console.log('login complete');
+        
+        await sleep(10000);
+
+
 
         const evaluateSendCodeData = await page.evaluate(sendCode);
 
