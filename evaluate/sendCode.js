@@ -50,12 +50,7 @@ module.exports = async function(message){
 
         getCodeButton.click();
 
-        await sleep(2000);
-
-        const codeInput = await getElement('#user_verification_code', 500, 10000);
-        if(codeInput) return 'find';
-
-        return 'error'
+        return 'sent';
     }
 
     return await main();

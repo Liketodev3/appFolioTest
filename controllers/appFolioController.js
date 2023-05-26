@@ -12,7 +12,7 @@ const profileMessagesOrigin = "https://www.linkedin.com/messaging/thread/2-NTE5Z
 const readline = require('readline-sync');
 
 const login = require('../evaluate/login.js');
-const getCode = require('../evaluate/getCode.js');
+const sendCode = require('../evaluate/sendCode.js');
 const getData = require('../evaluate/getData.js');
 const writeCode = require('../evaluate/writeCode.js');
 const findUnreadMessageAndOpen = require('../evaluate/findUnreadMessageAndOpen.js');
@@ -208,11 +208,20 @@ class appFolioController{
 
         const evaluateLoginData = await page.evaluate(login);
 
-        const evaluateCodeData = await page.evaluate(getCode);
+
+        console.log('login complete');
+
+        const evaluateSendCodeData = await page.evaluate(sendCode);
+
+
+
+
+        console.log(evaluateSendCodeData);
+
 
         let code = '';
 
-        if(evaluateCodeData === 'find'){
+        if(evaluateSendCodeData === 'sent'){
             code = readline.question("what code");
         }
 
