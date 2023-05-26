@@ -3,7 +3,7 @@ git login
 liketodev3@gmail.com
 Hndik111!!
 ============================
-ssh
+ssh root@65.109.11.93
 
 ssh_host: 65.109.11.93
 ssh_user: root
