@@ -27,12 +27,12 @@ function createBrowser(profileName) {
         // executablePath: "C:/chrome-win/chrome.exe",
         // userDataDir: 'C:/Users/WPPC-0084/AppData/Local/Chromium/User Data',
         // profileDirectory: profileName,
-        // args: [
-        //     // '--no-sandbox',
-        //     '--enable-sync',
-        //     `--user-data-dir=${userDataDir}`,
-        //     `--profile-directory=${profileName}`
-        // ]
+        args: [
+            '--no-sandbox',
+            // '--enable-sync',
+            // `--user-data-dir=${userDataDir}`,
+            // `--profile-directory=${profileName}`
+        ]
     });
 }
 
